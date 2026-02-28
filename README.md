@@ -1,6 +1,6 @@
 # txtpik
 
-**txtpik** is a simple command-line text picker tool for Linux that uses Tesseract OCR to extract text from your screen.
+**txtpik** is a simple command-line text picker tool for Linux that uses Tesseract OCR to extract text.
 
 ![review](./demo.gif)
 
