@@ -1,7 +1,6 @@
 # txtpik
 
 **txtpik** is a simple command-line text picker tool for Linux.  
-This minimal example demonstrates a structure for a text picker project.
 
 ## Installation
 
