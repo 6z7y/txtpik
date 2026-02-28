@@ -4,9 +4,6 @@
 
 ![review](./demo.gif)
 
-uses: tesseract-ocr:
-Tesseract OCR is an open-source optical character recognition engine that converts images of text into machine-readable text.
-
 ## Installation
 
 ### Prerequisites
