@@ -57,17 +57,16 @@ You can pipe the output to a clipboard tool:
 5. **Clean up** → Deletes temporary screenshot
 
 
--- uses
-( Wayland
-- **slurp** - Wayland screen region selector
-- **grim** - Wayland screenshot tool  
-)
+### Tools used
 
-( X11
-- **maim** - X11 screenshot tool with built-in selection
-)
+**Wayland:**
+- **slurp** - Screen region selector
+- **grim** - Screenshot tool
 
+**X11:**
+- **maim** - Screenshot tool with built-in selection
+
+**OCR:**
 - **tesseract-ocr** - Converts images to text
-- **tesseract-ocr-eng** - English language support for Tesseract
-- **tesseract-ocr-[lang]** - Or Add other languages (spa, fra, deu, etc.)
---
+- **tesseract-ocr-eng** - English language support
+- **tesseract-ocr-[lang]** - Add other languages (spa, fra, deu, etc.)
