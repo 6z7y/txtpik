@@ -69,4 +69,4 @@ You can pipe the output to a clipboard tool:
 **OCR:**
 - **tesseract-ocr** - Converts images to text
 - **tesseract-ocr-eng** - English language support
-- **tesseract-ocr-[lang]** - Add other languages (spa, fra, deu, etc.)
+- **tesseract-ocr-[lang]** - Add other languages (ara, spa, fra, etc.)
